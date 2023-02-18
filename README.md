@@ -2,6 +2,10 @@
 
 ![er](https://github.com/ppagg/university-database/blob/main/ER_diagram.png)
 
+## Project Assignment Files Folder
+
+[Project Assignments](https://github.com/ppagg/university-database/tree/main/Project)
+
 ## Queries
 
 ### Data Management Functions
